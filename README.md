@@ -1,12 +1,12 @@
 # Year-1-Chemistry-Notes
 Notes for the first year of the chemistry course at the University of Warwick, including modules CH164-167. 
 
-| Module Code | Module Name                                       | Lecture Covered | Status      |
-| ----------- | ------------------------------------------------- | --------------- | ----------- |
-| CH164       | Atoms and Molecules                               | 2/15            | In Progress |
-| CH165       | Chemical Change                                   | 0/15            | Not started |
-| CH166       | Molecules and Materials Across the Periodic Table | 0/30            | Not Started |
-| CH167       | Carbon and Chemistry of Life                      | 0/30            | Not Started |
+| Module Code | Module Name                                       | Lecture Covered | Notes                                                                                          | Status      |
+| ----------- | ------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------- | ----------- |
+| CH164       | Atoms and Molecules                               | 3/15            |                                                                                                | In Progress |
+| CH165       | Chemical Change                                   | 1/15            | Livia was not able to cover all of the planned content. Only covered content will be included. | In progress |
+| CH166       | Molecules and Materials Across the Periodic Table | 0/30            |                                                                                                | Not Started |
+| CH167       | Carbon and Chemistry of Life                      | 0/30            |                                                                                                | Not Started |
 
 
 Some textbooks were used in the making of this:
