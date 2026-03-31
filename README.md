@@ -15,7 +15,7 @@ Some textbooks were used in the making of this:
 | -------------------------- | ---------------------------------------- | ---------------- | ------------- |
 | Organic Chemistry          | Clayden. Greeves, Warren, Wothers        | 2001             | 9780198503460 |
 | Atkin's Physical Chemistry | Atkins, De Paula                         | 2010             | 9780199543373 |
-| Chemistry$^3$              | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
+| Chemistry3                 | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 
 
 Last Updated 31/03/2026
