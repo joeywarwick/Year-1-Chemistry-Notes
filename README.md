@@ -1,12 +1,14 @@
-# Year-1-Chemistry-Notes
+# Year 1 Chemistry Notes
 Notes for the first year of the chemistry course at the University of Warwick, including modules CH164-167. 
 
-| Module Code | Module Name                                       | Lecture Covered | Notes                                                                                          | Status      |
-| ----------- | ------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------- | ----------- |
-| CH164       | Atoms and Molecules                               | 3/15            |                                                                                                | In Progress |
-| CH165       | Chemical Change                                   | 1/15            | Livia was not able to cover all of the planned content. Only covered content will be included. | In progress |
-| CH166       | Molecules and Materials Across the Periodic Table | 0/30            |                                                                                                | Not Started |
-| CH167       | Carbon and Chemistry of Life                      | 0/30            |                                                                                                | Not Started |
+Useful for Warwick chemistry students or sixth form students trying to get an idea of university-level chemistry!
+
+| Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
+| ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
+| CH164       | Atoms and Molecules                               | 3/15            |       | In Progress |
+| CH165       | Chemical Change                                   | 1/15            |       | In progress |
+| CH166       | Molecules and Materials Across the Periodic Table | 0/30            |       | Not Started |
+| CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
 
 
 Some textbooks were used in the making of this:
@@ -18,7 +20,7 @@ Some textbooks were used in the making of this:
 | Chemistry3                 | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 
 
-Last Updated 31/03/2026
+Last Updated 01/04/2026
 
 Please feel free to suggest changes and improvements in a pull request!
 
