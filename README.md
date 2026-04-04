@@ -20,7 +20,7 @@ Some textbooks were used in the making of this:
 | Chemistry3                 | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 
 
-Last Updated 02/04/2026
+Last Updated 04/04/2026
 
 Please feel free to suggest changes and improvements in a pull request!
 
