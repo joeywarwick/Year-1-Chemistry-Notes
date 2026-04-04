@@ -5,7 +5,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 
 | Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
 | ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
-| CH164       | Atoms and Molecules                               | 4/15            |       | In Progress |
+| CH164       | Atoms and Molecules                               | 5/15            |       | In Progress |
 | CH165       | Chemical Change                                   | 2/15            |       | In progress |
 | CH166       | Molecules and Materials Across the Periodic Table | 0/30            |       | Not Started |
 | CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
