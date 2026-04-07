@@ -8,7 +8,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 
 | Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
 | ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
-| CH164       | Atoms and Molecules                               | 7/15            |       | In Progress |
+| CH164       | Atoms and Molecules                               | 8/15            |       | In Progress |
 | CH165       | Chemical Change                                   | 2/15            |       | In progress |
 | CH166       | Molecules and Materials Across the Periodic Table | 0/30            |       | Not Started |
 | CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
@@ -22,7 +22,7 @@ Some textbooks were used in the making of this:
 | Atkin's Physical Chemistry | Atkins, De Paula                         | 2010             | 9780199543373 |
 | Chemistry3                 | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 
-Last Updated 05/04/2026
+Last Updated 08/04/2026
 
 Please feel free to suggest changes and improvements in a pull request!
 
