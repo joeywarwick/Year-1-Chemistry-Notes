@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CH165/L2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "L2"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CH165/L2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for L2"
             }
           },
           {
@@ -199,6 +199,7 @@
   },
   "active": "d7f3ee6224879516",
   "lastOpenFiles": [
+    "README.md",
     "CH164/Part 2/L10.md",
     "CH164/Part 1/L1.md",
     "CH164/Part 1/L2.md",
@@ -212,7 +213,6 @@
     "CH167/L1.md",
     "CH165/L1.md",
     "CH165/L2.md",
-    "README.md",
     "CH164/Part 2",
     "CH164/Part 1",
     "CH167",
