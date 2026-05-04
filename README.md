@@ -5,7 +5,6 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 
 **THIS IS NOT AN OFFICIAL RESOURCE**.
 
-
 | Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
 | ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
 | CH164       | Atoms and Molecules                               | 10/15           |       | In Progress |
@@ -13,8 +12,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 | CH166       | Molecules and Materials Across the Periodic Table | 0/30            |       | Not Started |
 | CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
 
-
-Some textbooks were used in the making of this:
+Recommended further reading:
 
 | Textbook Name              | Author                                   | Publication Year | ISBN          |
 | -------------------------- | ---------------------------------------- | ---------------- | ------------- |
@@ -26,4 +24,4 @@ Last Updated 13/04/2026
 
 Please feel free to suggest changes and improvements in a pull request!
 
-**Disclaimer: Notes may contain errors and may not cover the syllabi fully. Please cross-reference with official material.**
+**Disclaimer: All notes are my own work typed by hand, which means that they may contain errors and may not cover the syllabi fully. Please cross-reference with official materials.**
