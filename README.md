@@ -24,6 +24,11 @@ Last Updated 13/04/2026
 
 Please feel free to suggest changes and improvements in a pull request!
 
+> Some inline mathematical expressions may not render correctly in Github's markdown viewer. If you encounter any of these issues, view these notes in:
+> - VS Code
+> - Obsidian (https://obsidian.md/)
+> - Typora (https://typora.io/)
+
 If you liked my notes, please support my work at https://buymeacoffee.com/detml ! 
 
 **Disclaimer: All notes are my own work typed by hand, which means that they may contain errors and may not cover the syllabi fully. Please cross-reference with official materials.**
