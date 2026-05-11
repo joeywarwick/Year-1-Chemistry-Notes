@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CH166/Part 1/L4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "L4"
             }
           }
         ],
@@ -200,18 +200,20 @@
   },
   "active": "54a3e1048656f8a7",
   "lastOpenFiles": [
+    "CH166/Part 1/L3.md",
+    "CH166/Part 1/L4.md",
     "CH166/Part 1/L2.md",
+    "CH166/Part 1/L1.md",
+    "README.md",
     "CH164/Part 3/L11.md",
     "CH164/Part 2/L10.md",
     "CH164/Part 2/L7.md",
     "CH164/Part 2/L8.md",
     "CH164/Part 2/L9.md",
     "CH166/Part 1",
-    "CH166/Part 1/L1.md",
     "CH164/Part 3/L15.md",
     "CH164/Part 3/L12.md",
     "CH164/Part 3/L14.md",
-    "README.md",
     "Pasted image 20260507160112.png",
     "CH165/Part 1/L3.md",
     "CH165/Part 1/L1.md",
@@ -233,7 +235,6 @@
     "CH164/Part 2",
     "CH164/Part 1",
     "CH167",
-    "CH164/Pictures and Figures/L1 Pictures/Untitled.md",
     "CH164/Pictures and Figures/L1 Pictures",
     "CH164/Pictures and Figures"
   ]
