@@ -9,7 +9,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 | ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
 | CH164       | Atoms and Molecules                               | 15/15           |       | Complete    |
 | CH165       | Chemical Change                                   | 2/15            |       | In progress |
-| CH166       | Molecules and Materials Across the Periodic Table | 2/30            |       | In progress |
+| CH166       | Molecules and Materials Across the Periodic Table | 16/30           |       | In progress |
 | CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
 
 Recommended further reading:
