@@ -1,15 +1,15 @@
 # Year 1 Chemistry Notes
 Notes for the first year of the chemistry course at the University of Warwick, including modules CH164-167. 
 
-Useful for Warwick chemistry students or sixth form students trying to get an idea of university-level chemistry!
+Useful for Warwick chemistry students or sixth form students trying to get an idea of university-level chemistry.
 
-**THIS IS NOT AN OFFICIAL RESOURCE**.
+**THIS IS NOT AN OFFICIAL RESOURCE**. .
 
 | Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
 | ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
 | CH164       | Atoms and Molecules                               | 15/15           |       | Complete    |
-| CH165       | Chemical Change                                   | 2/15            |       | In progress |
-| CH166       | Molecules and Materials Across the Periodic Table | 26/30           |       | In progress |
+| CH165       | Chemical Change                                   | 3/15            |       | In progress |
+| CH166       | Molecules and Materials Across the Periodic Table | 30/30           |       | Complete    |
 | CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
 
 Recommended further reading:
