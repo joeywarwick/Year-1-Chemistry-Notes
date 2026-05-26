@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CH165/Part 2 - Solution chemistry/L7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "L7"
             }
           }
         ],
@@ -201,6 +201,9 @@
   "active": "708ace123436f315",
   "lastOpenFiles": [
     "CH165/Part 2 - Solution chemistry/L6.md",
+    "CH165/Part 2 - Solution chemistry/L7.md",
+    "CH166/Part 4 - Polymers/L28.md",
+    "README.md",
     "CH165/Part 1 - Thermodynamics/L4.md",
     "CH165/Part 1 - Thermodynamics/L3.md",
     "CH165/Part 1 - Thermodynamics/L5.md",
@@ -211,11 +214,9 @@
     "CH166/Part 1 - Transition metal complexes/L3.md",
     "CH166/Part 1 - Transition metal complexes/L2.md",
     "CH166/Part 1 - Transition metal complexes/L1.md",
-    "README.md",
     "CH165/Part 1 - Thermodynamics/L1.md",
     "CH166/Part 4 - Polymers/L26.md",
     "CH166/Part 4 - Polymers/L25.md",
-    "CH166/Part 4 - Polymers/L28.md",
     "CH166/Part 4 - Polymers/L27.md",
     "CH166/Part 4 - Polymers/L29.md",
     "CH166/Part 3 - Periodicity and main-group chemistry/L23.md",
@@ -226,7 +227,6 @@
     "CH166/Part 4 - Polymers/L30.md",
     "CH166/Part 2 - Solid-state chemistry/L14.md",
     "CH166/Part 2 - Solid-state chemistry/L12.md",
-    "CH166/Part 3 - Periodicity and main-group chemistry/L22.md",
     "CH166/Part 4 - Polymers",
     "Pasted image 20260517104241.png",
     "CH166/Part 3 - Periodicity and main-group chemistry",
