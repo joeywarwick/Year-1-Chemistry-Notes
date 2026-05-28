@@ -8,7 +8,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 | Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
 | ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
 | CH164       | Atoms and Molecules                               | 15/15           |       | Complete    |
-| CH165       | Chemical Change                                   | 6/15            |       | In progress |
+| CH165       | Chemical Change                                   | 12/15           |       | In progress |
 | CH166       | Molecules and Materials Across the Periodic Table | 30/30           |       | Complete    |
 | CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
 
@@ -21,7 +21,7 @@ Recommended further reading:
 | Chemistry3                      | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 | Chemistry of the Carbonyl Group | Dickens, Warren                          | 2018             | 9781119459569 |
 
-Last Updated 26/05/2026
+Last Updated 28/05/2026
 
 Please feel free to suggest changes and improvements in a pull request!
 
