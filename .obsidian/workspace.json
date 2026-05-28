@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CH165/Part 3 - Kinetics/L15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "L15"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "right": {
     "id": "d3ccf99c576e939a",
@@ -185,33 +185,33 @@
   },
   "active": "708ace123436f315",
   "lastOpenFiles": [
-    "cc-by-nc-sa-shield.md",
-    "README.md",
+    "CH165/Part 2 - Solution chemistry/L10.md",
+    "CH165/Part 2 - Solution chemistry/L7.md",
+    "CH165/Part 2 - Solution chemistry/L8.md",
+    "CH165/Part 2 - Solution chemistry/L9.md",
+    "CH165/Part 3 - Kinetics/L15.md",
+    "CH165/Part 3 - Kinetics/L14.md",
+    "CH165/Part 3 - Kinetics/L11.md",
     "CH165/Part 3 - Kinetics/L13.md",
     "CH165/Part 3 - Kinetics/L12.md",
-    "CH165/Part 3 - Kinetics/CH167/L1.md",
-    "CH165/Part 3 - Kinetics/L11.md",
+    "README.md",
+    "cc-by-nc-sa-shield.md",
+    "CH167/L1.md",
     "CH166/Part 3 - Periodicity and main-group chemistry/L21.md",
-    "CH165/Part 2 - Solution chemistry/L10.md",
     "CH165/Part 3 - Kinetics",
     "CH165/Part 2 - Solution chemistry/L6.md",
     "CH165/Part 1 - Thermodynamics/L5.md",
     "CH165/Part 1 - Thermodynamics/L4.md",
     "CH165/Part 1 - Thermodynamics/L3.md",
     "CH165/Part 1 - Thermodynamics/L2.md",
-    "CH165/Part 2 - Solution chemistry/L9.md",
     "CH166/Part 3 - Periodicity and main-group chemistry/L17.md",
     "CH166/Part 2 - Solid-state chemistry/L16.md",
-    "CH165/Part 2 - Solution chemistry/L7.md",
-    "CH165/Part 2 - Solution chemistry/L8.md",
     "CH165/Part 1 - Thermodynamics/L1.md",
     "[].md",
     "CH166/Part 4 - Polymers/L28.md",
     "CH166/Part 1 - Transition metal complexes/L5.md",
     "CH166/Part 1 - Transition metal complexes/L6.md",
     "CH166/Part 1 - Transition metal complexes/L4.md",
-    "CH166/Part 1 - Transition metal complexes/L3.md",
-    "CH166/Part 1 - Transition metal complexes/L2.md",
     "CH166/Part 5 - Revision",
     "CH166/Part 4 - Polymers",
     "Pasted image 20260517104241.png",
