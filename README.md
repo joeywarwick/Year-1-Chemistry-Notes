@@ -10,7 +10,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 | CH164       | Atoms and Molecules                               | 15/15           |       | Complete    |
 | CH165       | Chemical Change                                   | 15/15           |       | Complete    |
 | CH166       | Molecules and Materials Across the Periodic Table | 30/30           |       | Complete    |
-| CH167       | Carbon and Chemistry of Life                      | 3/30            |       | In progress |
+| CH167       | Carbon and Chemistry of Life                      | 6/30            |       | In progress |
 
 Recommended further reading:
 
@@ -21,9 +21,11 @@ Recommended further reading:
 | Chemistry3                      | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 | Chemistry of the Carbonyl Group | Dickens, Warren                          | 2018             | 9781119459569 |
 
-Last Updated 29/05/2026
+Last Updated 30/05/2026
 
-Please feel free to suggest changes and improvements in a pull request!
+> For **non-Warwick** students: The modules are taught in the order of 164 -> 165 -> 166 and 167. Later modules may assume knowledge from earlier modules.
+
+> For **Warwick** students: The notes may not be divided at the same point as lectures. This is to improve the coherence and flow of the notes.
 
 > Some inline mathematical expressions may not render correctly in Github's markdown viewer. If you encounter any of these issues, download the zip file in the latest release, and open in one of the following:
 > - VS Code
@@ -31,5 +33,7 @@ Please feel free to suggest changes and improvements in a pull request!
 > - Typora (https://typora.io/)
 
 If you liked my notes, please support my work at https://buymeacoffee.com/detml ! 
+
+Please feel free to suggest changes and improvements in a pull request!
 
 **Disclaimer: All notes are my own work typed by hand, which means that they may contain errors and may not cover the syllabi fully. Please cross-reference with official materials.**'
