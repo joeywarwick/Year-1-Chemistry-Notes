@@ -10,7 +10,7 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 | CH164       | Atoms and Molecules                               | 15/15           |       | Complete    |
 | CH165       | Chemical Change                                   | 15/15           |       | Complete    |
 | CH166       | Molecules and Materials Across the Periodic Table | 30/30           |       | Complete    |
-| CH167       | Carbon and Chemistry of Life                      | 0/30            |       | Not Started |
+| CH167       | Carbon and Chemistry of Life                      | 3/30            |       | In progress |
 
 Recommended further reading:
 
@@ -32,4 +32,4 @@ Please feel free to suggest changes and improvements in a pull request!
 
 If you liked my notes, please support my work at https://buymeacoffee.com/detml ! 
 
-**Disclaimer: All notes are my own work typed by hand, which means that they may contain errors and may not cover the syllabi fully. Please cross-reference with official materials.**
+**Disclaimer: All notes are my own work typed by hand, which means that they may contain errors and may not cover the syllabi fully. Please cross-reference with official materials.**'
