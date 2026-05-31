@@ -31,6 +31,7 @@ Last Updated 30/05/2026
 > - VS Code
 > - Obsidian (https://obsidian.md/) 
 > - Typora (https://typora.io/)
+> Obsidian is recommended, as these notes were made in Obsidian.
 
 If you liked my notes, please support my work at https://buymeacoffee.com/detml ! 
 
