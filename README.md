@@ -5,12 +5,12 @@ Useful for Warwick chemistry students or sixth form students trying to get an id
 
 **THIS IS NOT AN OFFICIAL RESOURCE**. .
 
-| Module Code | Module Name                                       | Lecture Covered | Notes | Status      |
-| ----------- | ------------------------------------------------- | --------------- | ----- | ----------- |
-| CH164       | Atoms and Molecules                               | 15/15           |       | Complete    |
-| CH165       | Chemical Change                                   | 15/15           |       | Complete    |
-| CH166       | Molecules and Materials Across the Periodic Table | 30/30           |       | Complete    |
-| CH167       | Carbon and Chemistry of Life                      | 21/30           |       | In progress |
+| Module Code | Module Name                                       | Lecture Covered | Notes | Status   |
+| ----------- | ------------------------------------------------- | --------------- | ----- | -------- |
+| CH164       | Atoms and Molecules                               | 15/15           |       | Complete |
+| CH165       | Chemical Change                                   | 15/15           |       | Complete |
+| CH166       | Molecules and Materials Across the Periodic Table | 30/30           |       | Complete |
+| CH167       | Carbon and Chemistry of Life                      | 30/30           |       | Complete |
 
 Recommended further reading:
 
@@ -21,7 +21,7 @@ Recommended further reading:
 | Chemistry3                      | Burrows, Holman, Parsons, Pilling, Price | 2017             | 9780198733805 |
 | Chemistry of the Carbonyl Group | Dickens, Warren                          | 2018             | 9781119459569 |
 
-Last Updated 02/06/2026
+Last Updated 03/06/2026
 
 > For **non-Warwick** students: The modules are taught in the order of 164 -> 165 -> 166 and 167. Later modules may assume knowledge from earlier modules.
 
